@@ -64,9 +64,9 @@ ChatGPT 移动端访问,Web 端访问,科学上网梯子机场推荐
 
 154块/一年的很适合做备用或者是轻度使用用户。
 
-[TAG机场官网]([TAGInternet](https://reurl.cc/D4L6Nm))
+[TAG机场官网](https://reurl.cc/D4L6Nm)
 (第一个打不开就点第二个，下面的也一样)
-[TAG机场官网]([TAGInternet](https://tagss04.pro/#/auth/FrzAuV9a))
+[TAG机场官网](https://tagss04.pro/#/auth/FrzAuV9a)
 
 > 开业时间：2018
 > 老板肉身：香港(确定)
@@ -88,7 +88,7 @@ ChatGPT 移动端访问,Web 端访问,科学上网梯子机场推荐
 > 专门客服：有
 > 国外能否使用：否，他家有国际站，可以买他家国际站 此机场适合推荐人群： 稳定且需要多国家落地
 
-[TAG机场官网]([TAGInternet](https://tagss04.pro/#/auth/FrzAuV9a))
+[TAG机场官网](https://tagss04.pro/#/auth/FrzAuV9a)
 **套餐(除了家宽套餐其他套餐节点一样):**
 
 |    套餐    |   流量    |      价格       |
