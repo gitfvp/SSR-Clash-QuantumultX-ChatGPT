@@ -51,5 +51,5 @@ ChatGPT 移动端访问,Web 端访问,科学上网梯子机场推荐
 | 1000G/月 | 100/月;280/季;520/半年;1000/年 |
 8 折优惠码：888
 
-## chatgpt安卓报错disallowed ISP/There is a problem with your request的解决方案
+## chatgpt安卓苹果报错disallowed ISP/There is a problem with your request的解决方案
 更换解锁GPT移动端的代理节点的机场服务
