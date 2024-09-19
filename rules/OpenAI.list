@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,pusher.com
 # 数量：17条
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,sanity.io
 DOMAIN,api3.siftscience.com
 DOMAIN,a-api.anthropic.com
 DOMAIN,a-cdn.anthropic.com
