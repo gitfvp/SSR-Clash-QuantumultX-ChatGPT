@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,pusher.com
 # 数量：17条
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN,api3.siftscience.com
+DOMAIN,a-api.anthropic.com
+DOMAIN,a-cdn.anthropic.com
 DOMAIN-SUFFIX,openspeech.cn
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,siftscience.com
@@ -55,7 +58,10 @@ DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,jsdelivr.net
+IP-CIDR,160.79.104.10/32
 IP-CIDR,64.23.132.171/32
+IP-CIDR,35.244.208.123/32
+IP-CIDR,34.36.57.103/32
 DOMAIN,ai.cn
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,chatgpt.com
