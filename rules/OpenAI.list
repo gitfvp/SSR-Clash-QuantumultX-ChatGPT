@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,pusher.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,sanity.io
+DOMAIN-SUFFIX, google.com
 DOMAIN,api3.siftscience.com
 DOMAIN,a-api.anthropic.com
 DOMAIN,a-cdn.anthropic.com
