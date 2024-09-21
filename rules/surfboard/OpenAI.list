@@ -29,6 +29,7 @@ DOMAIN,tcr9i.chat.openai.com
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,ai.google
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,api.statsig.com
